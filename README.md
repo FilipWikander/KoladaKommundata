@@ -1,2 +1,1 @@
-# KoladaKommundata
-Visualisering av Kolada data
+# kommundatakarta
